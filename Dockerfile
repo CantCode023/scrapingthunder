@@ -13,4 +13,4 @@ RUN cd app; npm install
 
 EXPOSE 3000
 
-CMD ["sh", "-c", "cd app; npm i"]
+CMD ["sh", "-c", "cd app; npm start"]
