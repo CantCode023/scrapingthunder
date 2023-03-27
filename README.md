@@ -1,6 +1,6 @@
 # Using DockerHub
 ```bash
-docker run -it --name cantcode/scrapingthunder_c -p 3000:3000 cantcode/scrapingthunder
+docker run -it --name scrapingthunder_c -p 3000:3000 cantcode/scrapingthunder
 ```
 
 # Building from source (Github)
